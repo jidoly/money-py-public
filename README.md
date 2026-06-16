@@ -55,7 +55,7 @@ KIS WebSocket ─► 수집기 ─► 링버퍼 ─► 피처엔진 ─► Light
 
 | 대시보드 (Cockpit) | 설정 |
 |---|---|
-| ![dashboard](screenshots/dashboard.png) | ![settings](screenshots/settings.png) |
+| ![dashboard](screenshots/dashboard.png) | ![settings](screenshots/setting.png) |
 
 ## 진행 상황
 
